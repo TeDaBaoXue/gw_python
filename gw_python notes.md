@@ -8,11 +8,11 @@
 
 `Jet Brains`出品，必为精品！总的来说配置不麻烦！
 
-### My first python file
+### Pycharm初始代码
 
 Pycharm默认的`main.py`是：
 
-```python
+```py
 # This is a sample Python script.
 
 # Press ⌃R to execute it or replace it with your code.
@@ -29,6 +29,26 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+```
+
+```
+Hi, PyCharm
+
+```
+
+凭借学过C语言的直觉，我感觉`print_hi`是一个函数。`'PyCharm'`用来填充`{name}`。
+
+### My first python file
+
+```py
+print("Hello world!\nHaHa!\tFinally I get to use python!\n想不到和C语言相通挺多，而且竟然在输出的末尾会自动换行")
+```
+
+```
+Hello world!
+HaHa!	Finally I get to use python!
+想不到和C语言相通挺多，而且竟然在输出的末尾会自动换行
+
 ```
 
 
